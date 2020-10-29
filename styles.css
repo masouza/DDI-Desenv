@@ -1,0 +1,17 @@
+.conteudo{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.logo{
+    font-display: bold;
+    font-size: 1.5em;
+    color: rebeccapurple;
+}
+.logo:hover{
+    color: purple;
+    font-style: italic;
+}
+.nav-link{
+    display: flex;
+    align-items: center;
+}
