@@ -1,2 +1,3 @@
 # DDI-Desenv
- Desenvolvimento protótipo de DDI
+ Desenvolvimento protótipo de DDI.
+ Matheus Amilton e Vanessa Ramos.
